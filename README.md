@@ -1,5 +1,5 @@
 # Reasoning-papers
-Bibliography on reasoning (MSR AIF Internal) 
+Some recent bibliography on reasoning 
 
 **STaR: Bootstrapping Reasoning With Reasoning.**  
 Zelikman, Eric, Yuhuai Wu, Jesse Mu, and Noah D. Goodman. March 2022. *arXiv \[Cs\]*.  
